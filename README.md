@@ -1,4 +1,6 @@
-### Hi there 👋
+### Following up of my students for datamanipulation and webapplications.
+     ⚡ C# with WPF & Material design
+     ⚡ ASP.NET MVC EF
 
 <!--
 **drieshoef/drieshoef** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
