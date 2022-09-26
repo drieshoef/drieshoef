@@ -1,6 +1,6 @@
 ### Following up of my students for datamanipulation and webapplications.
-     ⚡ C# with Dapper Framework
-     ⚡ ASP.NET Core (MVC) with Entity Framework
+     ⚡ C#(.NET) (MVC & ViewModels) with Dapper Framework
+     ⚡ ASP.NET Core (MVC & ViewModels) with Entity Framework
 
 <!--
 **drieshoef/drieshoef** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
