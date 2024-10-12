@@ -1,7 +1,7 @@
-### Following up of my students for their MVC Project.
-     ⚡ ASP.NET (Core) 8.0 (MVC & ViewModels) with Entity Framework
+### Following up of my students for their MVC Project
+     ⚡ ASP.NET (Core) 8.0 (MVC+ViewModels & API) with Unit of Work - Repositories (Entity FR)
 
-## Previously
+### Previously
      ⚡ C#(.NET Core) with Dapper/EF Framework 
 
 <!--
